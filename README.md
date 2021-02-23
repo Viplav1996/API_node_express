@@ -9,7 +9,7 @@ Steps to downlaod and install Node.js:
 4. Type in npm -v (wait a few seconds, it will show the current installed version)
 5. To create first Hello World program on your computer using Node.js
 
-Create a file name mynodeprogram.js
+Create a file name mynodeprogram.js 
 And type in the follwoing code to it:
 
                 var http = require('http');
